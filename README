@@ -1,0 +1,4 @@
+To run, just use train.py.
+
+It expects the topicclass_{train, test, dev} to be in the same folder it is in.
+It also expects the word2vec word embeddings (with Google News). Please unzip the file before running train.py;
